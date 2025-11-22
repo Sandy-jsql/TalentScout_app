@@ -1,0 +1,7 @@
+Demo Steps:
+1. Open terminal, run: streamlit run TalentScout_app.py
+2. Fill candidate details.
+3. Enter tech stack.
+4. Click Generate Questions.
+5. Show generated questions.
+6. Type 'bye' to exit chat.
