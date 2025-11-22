@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "mahesh",
+    "email": "m******6@gmail.com",
+    "phone": "********4744",
+    "years_experience": "25",
+    "desired_position": "software developer",
+    "current_location": "Hyderabad",
+    "tech_stack": [
+      "python",
+      "react",
+      "javascript"
+    ],
+    "timestamp": "2025-11-22T08:12:11.284491"
+  },
+  {
+    "full_name": "mahesh",
+    "email": "m****5@gmail.com",
+    "phone": "******0880",
+    "years_experience": "9",
+    "desired_position": "sde",
+    "current_location": "kidi",
+    "tech_stack": [
+      "python",
+      "js",
+      "react"
+    ],
+    "technical_answers": {
+      "python": {
+        "Q1": {
+          "question": "What are the key differences between lists and tuples in Python?",
+          "answer": "list is mutable but tuple is immutable"
+        },
+        "Q2": {
+          "question": "How does Python handle memory management?",
+          "answer": "Python uses a combination of private heap, garbage collection, and reference counting to manage memory."
+        }
+      }
+    },
+    "timestamp": "2025-11-22T08:36:47.290103"
+  }
+]
